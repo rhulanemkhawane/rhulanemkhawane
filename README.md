@@ -1,16 +1,18 @@
-## Hi there 👋
+# Rhulane Mkhawane
+### Data Scientist & BI Analyst · Johannesburg, SA
 
-<!--
-**rhulanemkhawane/rhulanemkhawane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Turning messy data into decisions — in finance, energy, and public policy.
 
-Here are some ideas to get you started:
+I build end-to-end data products: from SQL pipelines and statistical models to 
+Power BI dashboards that executives actually use. Currently building a 
+**SA Power Regulatory Risk Score** — a daily ML-powered risk signal for South 
+Africa's energy sector, running on AWS (Lambda · S3 · Athena · SageMaker · 
+QuickSight).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Python · SQL · R · Power BI · AWS (Certified Cloud Practitioner)  
+**Domain focus:** Regulatory risk · Renewable energy · Credit & ESD finance  
+**Currently:** Junior Data Analyst @ Walena Africa Capital (ABSA ESD programmes)
+
+📫 mkhawanerhulane@gmail.com  
+🔗 [LinkedIn](#) <!--www.linkedin.com/in/rhulane-mkhawane-->
+```
