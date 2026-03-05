@@ -10,8 +10,8 @@ Africa's energy sector, running on AWS (Lambda · S3 · Athena · SageMaker ·
 QuickSight).
 
 **Stack:** Python · SQL · R · Power BI · AWS (Certified Cloud Practitioner)  
-**Domain focus:** Regulatory risk · Renewable energy · Credit & ESD finance  
-**Currently:** Junior Data Analyst @ Walena Africa Capital (ABSA ESD programmes)
+**Domain focus:** Forecasting · Renewable energy 
+**Currently:** Data Scientist @ ENERTRAG South Africa
 
 📫 mkhawanerhulane@gmail.com  
 🔗 [www.linkedin.com/in/rhulane-mkhawane](#) <!--www.linkedin.com/in/rhulane-mkhawane-->
