@@ -10,7 +10,7 @@ Africa's energy sector, running on AWS (Lambda · S3 · Athena · SageMaker ·
 QuickSight).
 
 **Stack:** Python · SQL · R · Power BI · AWS (Certified Cloud Practitioner)  
-**Domain focus:** Forecasting · Renewable energy
+**Domain focus:** Forecasting · Renewable energy <br>
 **Currently:** Data Scientist @ ENERTRAG South Africa
 
 📫 mkhawanerhulane@gmail.com  
