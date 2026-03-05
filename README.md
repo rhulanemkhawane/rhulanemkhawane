@@ -1,5 +1,5 @@
 # Rhulane Mkhawane
-### Data Scientist & BI Analyst · Johannesburg, SA
+### Data Scientist · Johannesburg, SA
 
 > Turning messy data into decisions — in finance, energy, and public policy.
 
