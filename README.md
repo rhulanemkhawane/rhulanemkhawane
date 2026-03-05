@@ -14,5 +14,5 @@ QuickSight).
 **Currently:** Junior Data Analyst @ Walena Africa Capital (ABSA ESD programmes)
 
 📫 mkhawanerhulane@gmail.com  
-🔗 [LinkedIn](#) <!--www.linkedin.com/in/rhulane-mkhawane-->
+🔗 [www.linkedin.com/in/rhulane-mkhawane](#) <!--www.linkedin.com/in/rhulane-mkhawane-->
 ```
