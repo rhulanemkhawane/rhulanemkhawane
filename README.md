@@ -15,4 +15,3 @@ QuickSight).
 
 📫 mkhawanerhulane@gmail.com  
 🔗 [www.linkedin.com/in/rhulane-mkhawane](#) <!--www.linkedin.com/in/rhulane-mkhawane-->
-```
